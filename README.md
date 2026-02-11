@@ -33,6 +33,12 @@ This project demonstrates practical skills in **data analytics, business intelli
 
 ---
 
+## 📥 Download Dashboard File
+
+📌 [Click here to download the Power BI Dashboard (.pbix)] 🢃
+
+(https://drive.google.com/file/d/138vq3tW02rZaN7AsNso3hoREWtVk_8eY/view?usp=drive_link)
+
 📌 Created as part of a data analytics portfolio project.
 
 ## 📸 Dashboard Preview
