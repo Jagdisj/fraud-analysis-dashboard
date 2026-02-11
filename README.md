@@ -1,4 +1,4 @@
-# fraud-analysis-dashboard
+# Fraud-analysis-dashboard
 Power BI dashboard analyzing credit card fraud patterns
 
 # 💳 Credit Card Fraud Analysis Dashboard
